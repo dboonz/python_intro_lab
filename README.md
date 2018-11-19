@@ -1,3 +1,19 @@
+**Introduction into Python as given by Dirk during the ISI-Jena workshop**
+
+This repository contains the presentation that I used. It should be possible to
+read the ipynb file by simply clicking on it.
+
+If you would like to add some notes, let me know and I'll give you write
+rights.
+
+Note on using my libraries: The libraries that I showed are in a different repository. If you
+would like to have access, please let me know and I'll arrange it for you.
+
+Enjoy!
+Dirk
+
+**Below is an introductio into using Git, a version control system.**
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
