@@ -31,6 +31,9 @@ jupyter nbextension enable --py widgetsnbextension
 conda install -c conda-forge nodejs 
 conda install 
 # commands: git clone 
+# Add pyqt which I need for TMpy
+conda install -c anaconda pyqt 
+
 
 
 # open anaconda, install jupyterlab
